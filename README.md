@@ -23,7 +23,7 @@ A Flutter application demonstrating a complete Authentication Flow using **River
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/amarjithp/nxlassignment.git](https://github.com/amarjithp/nxlassignment.git)
+   git clone https://github.com/amarjithp/nxl.git
    cd nxlassignment
    ```
 2. **Install dependencies:**
