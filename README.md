@@ -24,7 +24,7 @@ A Flutter application demonstrating a complete Authentication Flow using **River
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/amarjithp/nxl.git
-   cd nxlassignment
+   cd nxl
    ```
 2. **Install dependencies:**
    Run the following command to fetch all required packages, including Riverpod:
