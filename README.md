@@ -7,7 +7,7 @@ A Flutter application demonstrating a complete Authentication Flow using **River
 * **User Registration:** Create a new account. Data is persisted to allow immediate testing of the authentication flow.
 * **Secure Login:** Authenticate using the credentials created during registration.
 * **Field Validation:** * Real-time email format validation (e.g., example@mail.com).
-    * Password strength and length requirements.
+    * Password length requirements.
     * Comprehensive empty field detection for all inputs to ensure data integrity.
 * **State Management:** Built with **Riverpod** for a clean, reactive, and scalable architecture.
 
@@ -24,16 +24,19 @@ A Flutter application demonstrating a complete Authentication Flow using **River
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/amarjithp/nxlassignment.git](https://github.com/amarjithp/nxlassignment.git)
-   cd nxlassignment```
+   cd nxlassignment
+   ```
 2. **Install dependencies:**
    Run the following command to fetch all required packages, including Riverpod:
    ```bash
-   flutter pub get```
+   flutter pub get
+   ```
 
 3. **Run the application:**
    Launch the app on your connected device:
    ```bash
-   flutter run```
+   flutter run
+   ```
 
 ---
 
